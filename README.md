@@ -28,7 +28,7 @@ The app is developed using React.js and material-UI.
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/Weather_app.git
+git clone https://github.com/satya2804/Weather_app.git
 
 ```
 
